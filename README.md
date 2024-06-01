@@ -1,6 +1,6 @@
-<h1 align=center>FIAP | FASE 3</h1>
+<h1 align=center>FIAP | FASE 4</h1>
 
->**FASE 3 - *Aprendendo Tecnologia com Desenvolvimento***
+>**FASE 4 - *Front-End, Lógica e Projeto em um Único Lugar***
 
 ## Descrição
 
@@ -12,12 +12,11 @@ Cada capítulo tem sua própria branch para anotações e exercícios
 
 | CAPÍTULO | BRANCH |
 | :--- | :---: |
-| Capítulo 1 - Executando um projeto | `cap-1` |
-| Capítulo 2 - Front-end design e mais | `cap-2` |
-| Capítulo 3 - Mais um pouco de hardware | `cap-3` |
-| Capítulo 4 - Já sabe programar JavaScript? | `cap-4` |
-| Capítulo 5 - Aprendendo o modelo Canvas | `cap-5` |
-| Capítulo 6 - Mapeamento de software | `cap-6` |
-| Capítulo 7 - Conhecendo os números | `cap-7` |
-| Capítulo 8 - Comunicação empresarial | `cap-8` |
-| Capítulo 9 - Estruturas avançadas de lógica | `cap-9` |
+| Capítulo 1 - O show não pode parar | `cap-1` |
+| Capítulo 2 - Um pouco mais de bootstrap | `cap-2` |
+| Capítulo 3 - Hardware e os números | `cap-3` |
+| Capítulo 4 - JavaScript e suas funções | `cap-4` |
+| Capítulo 5 - Diagramas em projetos | `cap-5` |
+| Capítulo 6 - Matemática para tudo | `cap-6` |
+| Capítulo 7 - Lógica para programar | `cap-7` |
+| Capítulo 8 - Mercado e tecnologia | `cap-8` |
