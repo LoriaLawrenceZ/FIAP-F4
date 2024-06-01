@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Repositório para anotações e exercícios da Fase 3 do curso de **Engeharia de Software** da **FIAP**
+Repositório para anotações e exercícios da Fase 4 do curso de **Engeharia de Software** da **FIAP**
 
 ## Estrutura
 
