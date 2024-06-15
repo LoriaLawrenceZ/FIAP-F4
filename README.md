@@ -67,13 +67,13 @@ Para desenvolver alguns exemplos, será utilizado o código que está disponíve
 
 <p align="right">(<a href="#readme-top">back to top</a>)
 
-## FORMULÁRIOS
+# FORMULÁRIOS
 
 Os formulários são um meio muito utilizado de enviar informações, existem várias formas de disponibilizarmos os dados e os diferentes tipos de campos.
 
 > Como Construir um Formulário e Utilizar Seus Componentes [[Formulário básico](Formulario/FormularioBasico.html)]
 
-### Visão Geral
+## Visão Geral
 
 Os controles de formulário do Bootstrap melhoram os vários elementos existentes.
 
@@ -84,7 +84,7 @@ Os controles de formulário do Bootstrap melhoram os vários elementos existente
 |                       `<label>`                       | São definidos para **display: inline-block** permitir **margin** na aplicação.                                                                       |
 | `<input>`<br>`<select>`<br>`<textarea>`<br>`<button>` | São endereçados principalmente por **Normalize**, mas **Reboot** remove seus **margin** e configurou os **line-height: inherit**                     |
 |                     `<textarea>`                      | Foram modificados para serem redimensionáveis apenas verticalmente, pois o redimensionamento horizontal geralmente distorce o layout da página.      |
-|                 `<bottom>`e `<input>`                 | Se tornaram elementos de botão e acrescentam o **cursor: pointer**                                                                                   |
+|                `<bottom>`<br>`<input>`                | Se tornaram elementos de botão e acrescentam o **cursor: pointer**                                                                                   |
 
 Certifique-se de usar um atributo apropriado em todas as entradas (por exemplo, **email** para receber endereço de e-mail, ou **number** para informações numéricas) a fim de aproveitar os controles de entrada mais recentes, como verificação de e-mail, seleção de número e muito mais.
 
@@ -116,3 +116,5 @@ Exemplo básico de formulário:
 </body>
 </html>
 ```
+
+# NOTAÇÃO
