@@ -73,7 +73,7 @@ Os formulários são um meio muito utilizado de enviar informações, existem v�
 
 > Como Construir um Formulário e Utilizar Seus Componentes [[Formulário básico](Formulario/FormularioBasico.html)]
 
-## Visão Geral
+### Visão Geral
 
 Os controles de formulário do Bootstrap melhoram os vários elementos existentes.
 
