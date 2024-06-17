@@ -327,6 +327,8 @@ Caso queira utilizar um elemento já selecionado, use o atributo **checked**.
 
 ![img.png](assets/img/img4.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)
+
 # OPÇÃO DE DROPDOWN
 
 o *dropdown* é um menu suspenso, esse tipo de opção é muito utilizada por possibilitar ao usuário ter uma opção de escolha dentro de uma lista com valores definidos.
@@ -350,6 +352,8 @@ Para abrir o menu suspenso, use um botão ou um link com uma classe de **.dropdo
 
 ![img.png](assets/img/img5.png)
 
+<p align="right">(<a href="#readme-top">back to top</a>)
+
 # OPÇÃO DE GRUPO DE INPUTS
 
 Utilizando a classe **.input-group** é possível acrescentar ícones, textos e botões na frente ou no fim dos campos de entradas.
@@ -371,6 +375,8 @@ Para utilizar o texto de ajuda especificado, use a classe **.input-group-text**.
 ```
 
 ![img.png](assets/img/img6.png)
+
+<p align="right">(<a href="#readme-top">back to top</a>)
 
 # VALIDAÇÃO DE FORMULÁRIO
 
@@ -406,6 +412,10 @@ Também pode adicionar uma mensagem, utilizando a classe **.valid-feedback** ou 
 |:---------------------------------:|:----------------------------------:|
 | ![img_2.png](assets/img/img9.png) | ![img_3.png](assets/img/img10.png) |
 
+<p align="right">(<a href="#readme-top">back to top</a>)
+
 # UTILIZANDO TODOS OS ELEMENTOS NO FORMULÁRIO
 
 > Utilizando todos os elementos em um formulário de login [[FormularioCompleto.html](./Exemplos/FormularioCompleto.html)]
+
+<p align="right">(<a href="#readme-top">back to top</a>)
