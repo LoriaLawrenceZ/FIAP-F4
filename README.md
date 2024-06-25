@@ -70,8 +70,73 @@ A extensão de um número ou valor em uma determinada base refere-se à quantida
 <details close>
     <summary><code>VÍDEO | A Origem da Informação e sua Relação com as Bases Numéricas</code></summary>
 
+### Representação da base 2
 
+A representação na base dois é feita pegando o número e dividindo-o sucessivamente por 2, guardando o resto da divisão. Por exemplo, para o número 214, temos:
+
+> - 214 / 2 = 107 -> 0<br>
+> - 107 / 2 = 53 -> 1<br>
+> - 53 / 2 = 26 -> 1<br>
+> - 26 / 2 = 13 -> 0<br>
+> - 13 / 2 = 6 -> 1<br>
+> - 6 / 2 = 3 -> 0<br>
+> - 3 / 2 = 1 -> 1<br>
+> - 1 / 2 = 0 -> 1<br>
+
+>214(10) = 11010110(2)
+
+> Não se esquecer de inverter depois!<br>
+> Divisão: 0 - 1 - 1 - 0 - 1 - 0 - 1 - 1<br>
+> Representação: 11010110
+
+### Representação da base 8
+
+A representação na base oito é feita pegando o número e dividindo-o sucessivamente por 8, guardando o resto da divisão. Por exemplo, para o número 214, temos:
+
+> - 214 / 8 = 26 -> 6<br>
+> - 26 / 8 = 3 -> 2<br>
+> - 3 / 8 = 0 -> 3<br>
+
+>214(10) = 326(8)
+
+> Não se esquecer de inverter depois!<br>
+> Divisão: 6 - 2 - 3<br>
+> Representação: 326
+
+### Representação da base 10
+
+A representação na base dez é feita pegando o número e dividindo-o sucessivamente por 10, guardando o resto da divisão. Por exemplo, para o número 214, temos:
+
+> - 214 / 10 = 21 -> 4<br>
+> - 21 / 10 = 2 -> 1<br>
+> - 2 / 10 = 0 -> 2<br>
+
+>214(10) = 214(10)
+
+> Não se esquecer de inverter depois!<br>
+> Divisão: 4 - 1 - 2<br>
+> Representação: 214
+
+### Representação da base 16
+
+A representação na base dezesseis é feita pegando o número e dividindo-o sucessivamente por 16, guardando o resto da divisão. Por exemplo, para o número 214, temos:
+
+> - 214 / 16 = 13 -> 6 (6)<br>
+> - 13 / 16 = 0 -> D (13)<br>
+
+>214(10) = D6(16)
+
+> Não se esquecer de inverter depois!<br>
+> Divisão: 6 - D<br>
+> Representação: D6
 
 </details>
+
+Na base 2, a extensão de um número quase sempre é dada em **bits** em vez de dígitos. Por exemplo, 101001(2) possue 6 bits de extensão. Seja o número 214(10), é possível representar como:
+
+| ![img.png](assets/img/img3.png) | ![img_1.png](assets/img/img4.png) |
+|:-------------------------------:|:---------------------------------:|
+
+No qual os números em vermelho, ou seja, as potências de 10 são índices associados a cada dígito do número original.
 
 <p align="right">(<a href="#readme-top">back to top</a>)
